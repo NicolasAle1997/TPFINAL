@@ -6,8 +6,11 @@ Trabajo Práctico Final
 PAUTAS GENERALES
 
 Realizar una pantalla principal donde debe aparecer un menú con las siguientes características:
+
 Clientes
+
 Alta de Clientes
+
 Funciones:
 Carga de Datos Clientes
 Verificar de no cargar un mismo cliente
