@@ -1,4 +1,8 @@
 
+UTN – FRMDP Mar del Plata
+TSP - Laboratorio 1
+Trabajo Práctico Final
+
 PAUTAS GENERALES
 
 Realizar una pantalla principal donde debe aparecer un menú con las siguientes características:
@@ -43,4 +47,3 @@ Guardar las modificaciones en el archivo
 Listado de Consumos
 Listar Consumos por Cliente y fecha.
 Estadística de Consumos: Ejemplo ¿Qué período es en el que más datos se consume?
-
