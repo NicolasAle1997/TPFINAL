@@ -135,6 +135,7 @@ void imprimirOpcionesEstadisticas()
     imprimirCabecera(" [MENU DE ESTADISTICAS] ");
     printf("\n\n\n\t\t\t\t1. Muestra consumos por ID de Cliente.\n");
     printf("\t\t\t\t2. Muestra mayor consumo por ID del Cliente.\n");
+    printf("\t\t\t\t3. VOLVER AL MENU PRINCIPAL.\n");
 }
 
 
@@ -306,23 +307,17 @@ void switchMenu()
                     break;
                 /////////////////////////////////////////////////////////
                 case 9:
-                    ///TERCERA FUNCION DE CLIENTE
-
-
-
-
+                    system("cls");
+                    iniciarMenu();
                     break;
-                //////////////////////////////////////////////////////////
                 default:
                     printf("Opcion incorrecta\n");
-
-                    //////////////////////////////////////////////////////////
                 }
             }
             while(op1!=0);
             break;
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
         case 2:
             do
@@ -390,11 +385,8 @@ void switchMenu()
                     break;
                     break;
                 case 5:
-                    ///TERCERA FUNCION DE CLIENTE
-
-
-
-
+                    system("cls");
+                    iniciarMenu();
                     break;
                 //////////////////////////////////////////////////////////
 
@@ -442,11 +434,8 @@ void switchMenu()
                     break;
                 //////////////////////////////////////////////////////////
                 case 3:
-                    ///TERCERA FUNCION DE CLIENTE
-
-
-
-
+                    system("cls");
+                    iniciarMenu();
                     break;
                 default:
                     printf("Opcion incorrecta\n");
